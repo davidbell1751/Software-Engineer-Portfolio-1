@@ -4,6 +4,6 @@ This was my first portfolio site which featured four projects to showcase some o
 
 **Splash Page**
 
-![Alt text](https://github.com/davidbell1751/Software-Engineer-Portfolio-1/blob/master/SoftwarePortfolio1.1.jpg?raw=true "Web Page")
+![Alt text](https://github.com/davidbell1751/Software-Engineer-Portfolio-1/blob/main/SoftwarePortfolio1.1.jpg?raw=true "Web Page")
 
 
